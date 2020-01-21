@@ -1,3 +1,8 @@
+audio_stop_sound(menutheme);
+audio_stop_sound(earthlevel);
+audio_stop_sound(icelevelmusic);
+audio_stop_sound(levelcompletion);
+
 menu_x=x;
 menu_y=y;
 button_h=32;

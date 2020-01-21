@@ -5,16 +5,6 @@
     "name": "object_brick",
     "eventList": [
         {
-            "id": "59c828b2-9909-4b75-88f9-2ad478993587",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "150d37d3-8070-421e-8ac6-a0a67269dfa2"
-        },
-        {
             "id": "9a0361b4-7eb5-4458-b7db-c4c4d678da5c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 1,
+            "m_owner": "150d37d3-8070-421e-8ac6-a0a67269dfa2"
+        },
+        {
+            "id": "64b1c98d-4b07-4e1a-9734-1687f8592643",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "150d37d3-8070-421e-8ac6-a0a67269dfa2"
         }
     ],
